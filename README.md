@@ -35,8 +35,7 @@ Then open the local URL from the terminal output.
 - Code (Level 3): [GitHub repo or zip upload link] (paste here)
 
 ## Data Source
-- USGS Earthquake API (last 24 hours):
-  - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
+- USGS Earthquake API (hour/day/week feeds)
 
 ## Notes
 - Map tiles
